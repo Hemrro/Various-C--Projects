@@ -1,0 +1,7 @@
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\bin\Debug\Nevek a megyében.exe.config
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\bin\Debug\Nevek a megyében.exe
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\bin\Debug\Nevek a megyében.pdb
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\obj\Debug\Nevek a megyében.csprojAssemblyReference.cache
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\obj\Debug\Nevek a megyében.csproj.CoreCompileInputs.cache
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\obj\Debug\Nevek a megyében.exe
+D:\Munkák\visual studio\Nevek a megyében\Nevek a megyében\obj\Debug\Nevek a megyében.pdb

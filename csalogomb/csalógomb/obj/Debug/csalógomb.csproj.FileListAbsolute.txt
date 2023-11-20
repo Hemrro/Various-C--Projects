@@ -1,0 +1,10 @@
+D:\Munkák\visual studio\csalógomb\csalógomb\bin\Debug\csalógomb.exe.config
+D:\Munkák\visual studio\csalógomb\csalógomb\bin\Debug\csalógomb.exe
+D:\Munkák\visual studio\csalógomb\csalógomb\bin\Debug\csalógomb.pdb
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.csprojAssemblyReference.cache
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.Form1.resources
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.Properties.Resources.resources
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.csproj.GenerateResource.cache
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.csproj.CoreCompileInputs.cache
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.exe
+D:\Munkák\visual studio\csalógomb\csalógomb\obj\Debug\csalógomb.pdb
